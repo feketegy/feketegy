@@ -35,12 +35,12 @@ Skills
 My selected blog posts
 ══════════════════════
 
-* <a href="https://primalskill.blog/opinions-after-20-years-of-software-development">Opinions After 20 Years of Software Development</a>
-* <a href="https://primalskill.blog/a-brief-history-of-javascript-frameworks">A Brief History of JavaScript Frameworks</a>
-* <a href="https://primalskill.blog/about-logging">About Logging</a>
-* <a href="https://primalskill.blog/the-curse-of-software-knowledge">The Curse Of Software Knowledge</a>
-* <a href="https://primalskill.blog/mistakes-were-made-part-1">Mistakes Were Made [Part 1]</a>
-* <a href="https://primalskill.blog/mistakes-were-made-part-2">Mistakes Were Made [Part 2]</a>
+  * <a href="https://primalskill.blog/opinions-after-20-years-of-software-development">Opinions After 20 Years of Software Development</a>
+  * <a href="https://primalskill.blog/a-brief-history-of-javascript-frameworks">A Brief History of JavaScript Frameworks</a>
+  * <a href="https://primalskill.blog/about-logging">About Logging</a>
+  * <a href="https://primalskill.blog/the-curse-of-software-knowledge">The Curse Of Software Knowledge</a>
+  * <a href="https://primalskill.blog/mistakes-were-made-part-1">Mistakes Were Made [Part 1]</a>
+  * <a href="https://primalskill.blog/mistakes-were-made-part-2">Mistakes Were Made [Part 2]</a>
 
 View more at: <a href="https://primalskill.blog">https://primalskill.blog</a>
 

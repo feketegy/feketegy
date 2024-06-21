@@ -33,7 +33,7 @@ Skills
 
   
 My selected blog posts
---------------------
+----------------------
 
 * <a href="https://primalskill.blog/opinions-after-20-years-of-software-development">Opinions After 20 Years of Software Development</a>
 * <a href="https://primalskill.blog/a-brief-history-of-javascript-frameworks">A Brief History of JavaScript Frameworks</a>

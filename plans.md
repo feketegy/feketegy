@@ -1,0 +1,106 @@
+
+# Unfinished
+
+| Context | Description |
+|------|-------------|
+| cxfs | orders page scoping |
+| cxfs | BC order sync |
+| enl | estimate ks project |
+| cxfs | add product status on edit page |
+
+
+
+
+# Done
+
+| Project | Description | Finished Date |
+|------|-------------|----------|
+| sheep | consignment scoping | 2024-07-01 |
+| sheep | white labeling marketplace | 2024-07-01 |
+| sheep | card grade and pop on card item in marketplace create task | 2024-06-28 |
+| cxfs | bc cart tips and date pickers | 2024-06-26 |
+| cxfs | rep revenue scoping phase 1 | 2024-06-25 |
+| cxfs | tests for the cart data calculator (max limit, oldest srp, cart items) | 2024-06-24 |
+| misc | create custom readme for GH profile | 2024-06-22 |
+| sheep | breakdown marketplace tasks | 2024-06-21 |
+| sheep | mock consignment flow | 2024-06-21 |
+| psk | see 2FA problems with dev | 2024-06-21 |
+| cxfs | review draft pr on trends | 2024-06-21 |
+| cxfs | send email on create cart | 2024-06-20 |
+| cxfs | bc cart integration | 2024-06-20 |
+| cxfs | review trends pr | 2024-06-20 |
+| cxfs | review draft pr | 2024-06-18 |
+| sheep | review PRs | 2024-06-13 |
+| cxfs | modify and expand the trend scoping | 2024-06-13 |
+| sheep | create user flows for signup/login/add card | 2024-06-13 |
+| cxfs | trend tasks breakdown and high-level discussion | 2024-06-12 |
+| sheep | merge PRs and deploy to staging | 2024-06-12 |
+| sheep | scope out user management | 2024-06-11 |
+| cxfs | deploy special name stuff to staging and  | 2024-06-11 |
+| cx   | deploy to staging | 2024-06-11 |
+| sheep | add mailgun configs to the domain dns | 2024-06-11 |
+| sheep | review PRs | 2024-06-11 |
+| cxfs | review PRs | 2024-06-11 |
+| cxfs | edit product special name formatting | 2024-06-10 |
+| enl | estimated ets-floattech | 2024-06-08 |
+| sheep | break down transfer scoping into tasks | 2024-06-07 |
+| cxfs | break down trends scoping into tasks | 2024-06-06 |
+| cxfs | create backup from staging (db and asset files) | 2024-06-05 |
+| cxfs | create one time script for moving the old vintage statuses to hub statuses | 2024-06-05 |
+| cxfs | trends scoping | 2024-06-04 |
+| cxfs | fix product details showing incorrect status | 2024-06-02 |
+| cxfs | work on product status calculations | 2024-06-02 |
+| cxfs | add loader animation when syncing product | 2024-06-02 |
+| cxfs | PR reviews | 2024-06-02 |
+| cxfs | PR reviews on winery management | 2024-05-27 |
+| sheep | staging etl-ed data download | 2024-05-24 |
+| sheep | check white label stuff | 2024-05-24 |
+| cxfs | update confluence docs to new product name format | 2024-05-23 |
+| sheep | PR reviews round 2 | 2024-05-23 |
+| cxfs | one time sync script for bulk syncing | 2024-05-23 |
+| cxfs | bugfix image alt text on products gets overwritten when syncing | 2024-05-23 |
+| sheep | break down bug tasks | 2024-05-23 |
+| sheep | call with devs for next phase features | 2024-05-23 |
+| sheep | check white label stuff | 2024-05-23 |
+| sheep | staging etl-ed data download | 2024-05-23 |
+| cxfs | one time sync script for bulk syncing | 2024-05-23 |
+| cxfs | bugfix image alt text on products gets overwritten when syncing | 2024-05-23 |
+| cxfs | sync one image and mark it as thumbnail too on BC | 2024-05-22 |
+| cxfs | fix bug ml sends decimals like 750.00ml on bc sync | 2024-05-22 |
+| cxfs | product name update according to nexternal | 2024-05-22 |
+| cxfs | winery management PR reviews round 1 | 2024-05-22 |
+| sheep | PR reviews, feedback | 2024-05-22 |
+| cxfs | team management PR reviews round 3 | 2024-05-22 |
+| cxfs | product name update according to nexternal | 2024-05-22 |
+| cxfs | fix bug ml sends decimals like 750.00ml on bc sync | 2024-05-22 |
+| cxfs | sync one image and mark it as thumbnail too on BC | 2024-05-22 |
+| cxfs | bugfix image alt text on products gets overwritten when syncing | 2024-05-23 |
+| cxfs | team management PR reviews round 2 | 2024-05-21 |
+| cxfs | bugfix image alt text on products gets overwritten when syncing | 2024-05-23 |
+| cxfs | bugfix for product title when syncing | 2024-05-20 |
+| cxfs | break down product status scoping to tasks | 2024-05-17 |
+| cxfs | update ssl certs | 2024-05-17 |
+| cxfs | make gtin upc required on product edit | 2024-05-17 |
+| cxfs | fix the product group name based on the vintage data | 2024-05-17 |
+| cxfs | fix the product group name based on the vintage data | 2024-05-17 |
+| csfx | deploy v2 to prod | 2024-05-16 |
+| cxfs | create task that all email notifications should always be enabeld by default | 2024-05-16 |
+| cxfs | break down scoping to tasks in trello | 2024-05-16 |
+| cxfs | break down scoping to tasks in trello | 2024-05-16 |
+| sheep | create task for dev to upgrade to chatgpt-4o | 2024-05-15 |
+| cxfs | check user email prefs because he's not getting emails <br> - their prefs are set to not get emails | 2024-05-15 |
+| cxfs | wine submission updates PR reviews | 2024-05-15 |
+| cxfs | team management PR reviews | 2024-05-15 |
+| cxfs | fixed bottle size bug being integer and float conversion for BC sync | 2024-05-14 |
+| cxfs | meeting notes transribe in trello | 2024-05-14 |
+| cxfs | email to BC understand how to customize the checkout flow for ocs add orders | 2024-05-14 |
+| cxfs | check duplicate products <br> - duplicate vintages were created years ago, not a bug in cxfs | 2024-05-14 |
+| cxfs | write tasks for changing wine submission pages | 2024-05-14 |
+| cxfs | check staging db to see which products don't have fulfilment hubs attached <br> - there are 12 products that doesn't have any fulfilment hubs | 2024-05-14 |
+| cxfs | finish the winery scoping doc in confluence | 2024-05-14 |
+| cxfs | check BC cart API to see if we can add a brand logo to the checkout <br> - there is no info in the BC API docs about this | 2024-05-14 |
+| cxfs | modify the create bc cart scoping doc to highlight the new winery changes | 2024-05-14 |
+| cxfs | wine submission PR merge in API and APP | 2024-05-13 |
+| cxfs | fixed product edit flavour profile list mismatch for codes wood and wood_2 | 2024-05-13 |
+| cxfs | import zero bug PR merge in v2 live and v3 staging | 2024-05-13 |
+| cxfs | winery scoping finish in confluence | 2024-05-14 |

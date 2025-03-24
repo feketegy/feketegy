@@ -44,5 +44,10 @@ My selected blog posts
 
 View more at: <a href="https://primalskill.blog">https://primalskill.blog</a>
 
-
+ 
+This is my 2025 updated battle station:
 </pre>
+
+![2025-battlestation](https://github.com/user-attachments/assets/abe4d1a9-97fd-4c87-8ab7-fa2c243dff44)
+
+

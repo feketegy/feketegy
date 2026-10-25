@@ -35,15 +35,24 @@ Skills
 My selected blog posts
 ══════════════════════
 
-  * <a href="https://primalskill.blog/opinions-after-20-years-of-software-development">Opinions After 20 Years of Software Development</a>
-  * <a href="https://primalskill.blog/a-brief-history-of-javascript-frameworks">A Brief History of JavaScript Frameworks</a>
-  * <a href="https://primalskill.blog/about-logging">About Logging</a>
-  * <a href="https://primalskill.blog/the-curse-of-software-knowledge">The Curse Of Software Knowledge</a>
-  * <a href="https://primalskill.blog/mistakes-were-made-part-1">Mistakes Were Made [Part 1]</a>
-  * <a href="https://primalskill.blog/mistakes-were-made-part-2">Mistakes Were Made [Part 2]</a>
+  * <a href="https://feketegy.org/there-was-no-writing-in-eden">There was no writing in Eden</a>
+  * <a href="https://feketegy.org/enhanced-teams">Enhanced teams</a>
+  * <a href="https://feketegy.org/you-dont-know">You don't know what you don't know</a>
+  * <a href="https://feketegy.org/what-to-log">About Logging</a>
+  * <a href="https://feketegy.org/curse-of-knowledge">The Curse Of Software Knowledge</a>
+  * <a href="https://feketegy.org/opinions-after-20">Opinions after 20 years of software development</a>
+  * <a href="https://feketegy.org/technologies-change">Technologies change</a>
 
-View more at: <a href="https://primalskill.blog">https://primalskill.blog</a>
+View more at: <a href="https://feketegy.org/">https://feketegy.org/</a>
 
+My selected photo projects
+══════════════════════════
+
+  * <a href="https://feketegy.org/blue-collar">Blue Collar (Work in Progress)</a>
+  * <a href="https://feketegy.org/beached">Beached (Work in Progress)</a>
+
+My photos that are not in a series: <a href="https://feketegy.org/moments">https://feketegy.org/moments</a>
+ 
 </pre>
 
 
